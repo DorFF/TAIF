@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 43785defa5157804ca40ec53fcac415d
+timeCreated: 1428280317
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - LensColor: {instanceID: 0}
+  - DirtTex: {instanceID: 0}
+  - StarTex: {fileID: 2800000, guid: cc22f48ee940d4f4a90ee60b1d9b279c, type: 3}
+  - LensFlareShader: {fileID: 4800000, guid: ca2012845d95bc8469b9f4ec32ae9be8, type: 3}
+  - CompositeShader: {fileID: 4800000, guid: 11ea94d4b8010714e9a370d1217aaf5d, type: 3}
+  - SeparableBlurShader: {fileID: 4800000, guid: e97c14fbb5ea04c3a902cc533d7fc5d1,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

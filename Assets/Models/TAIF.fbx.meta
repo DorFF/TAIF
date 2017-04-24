@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: b879361b7b3f73041980f32ffc0670f5
+timeCreated: 1490691289
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackButton_Plashka
+    100002: BackButton_Shesterni
+    100004: Detali00
+    100006: Detali01
+    100008: Detali02
+    100010: Detali03
+    100012: Dopolnitelnie_kolesa00
+    100014: Dopolnitelnie_kolesa01
+    100016: Dopolnitelnie_kolesa02
+    100018: Dopolnitelnie_kolesa03
+    100020: Dopolnitelnie_kolesa04
+    100022: Dopolnitelnie_kolesa05
+    100024: Fon
+    100026: Gruppa
+    100028: Gruppa 1
+    100030: Neft_Plashka
+    100032: Neft_Shesterni
+    100034: Plastina00
+    100036: Plastina01
+    100038: Plastina02
+    100040: Plastina03
+    100042: Plastina04
+    100044: PrujinaBig
+    100046: RamkaScreen
+    100048: Rubl_Plashka
+    100050: Rubl_shesterni_36
+    100052: ShesterniPrujina
+    100054: Stroika_Plashka
+    100056: Stroika_Shesterenki_48
+    100058: Sviaz_Plashka
+    100060: Sviaz_Prujina
+    100062: Sviaz_Shesterni1_48
+    100064: Sviaz_Shesterni2
+    100066: //RootNode
+    400000: BackButton_Plashka
+    400002: BackButton_Shesterni
+    400004: Detali00
+    400006: Detali01
+    400008: Detali02
+    400010: Detali03
+    400012: Dopolnitelnie_kolesa00
+    400014: Dopolnitelnie_kolesa01
+    400016: Dopolnitelnie_kolesa02
+    400018: Dopolnitelnie_kolesa03
+    400020: Dopolnitelnie_kolesa04
+    400022: Dopolnitelnie_kolesa05
+    400024: Fon
+    400026: Gruppa
+    400028: Gruppa 1
+    400030: Neft_Plashka
+    400032: Neft_Shesterni
+    400034: Plastina00
+    400036: Plastina01
+    400038: Plastina02
+    400040: Plastina03
+    400042: Plastina04
+    400044: PrujinaBig
+    400046: RamkaScreen
+    400048: Rubl_Plashka
+    400050: Rubl_shesterni_36
+    400052: ShesterniPrujina
+    400054: Stroika_Plashka
+    400056: Stroika_Shesterenki_48
+    400058: Sviaz_Plashka
+    400060: Sviaz_Prujina
+    400062: Sviaz_Shesterni1_48
+    400064: Sviaz_Shesterni2
+    400066: //RootNode
+    2300000: BackButton_Plashka
+    2300002: BackButton_Shesterni
+    2300004: Detali00
+    2300006: Detali01
+    2300008: Detali02
+    2300010: Detali03
+    2300012: Dopolnitelnie_kolesa00
+    2300014: Dopolnitelnie_kolesa01
+    2300016: Dopolnitelnie_kolesa02
+    2300018: Dopolnitelnie_kolesa03
+    2300020: Dopolnitelnie_kolesa04
+    2300022: Dopolnitelnie_kolesa05
+    2300024: Fon
+    2300026: Gruppa
+    2300028: Gruppa 1
+    2300030: Neft_Plashka
+    2300032: Neft_Shesterni
+    2300034: Plastina00
+    2300036: Plastina01
+    2300038: Plastina02
+    2300040: Plastina03
+    2300042: Plastina04
+    2300044: PrujinaBig
+    2300046: RamkaScreen
+    2300048: Rubl_Plashka
+    2300050: Rubl_shesterni_36
+    2300052: ShesterniPrujina
+    2300054: Stroika_Plashka
+    2300056: Stroika_Shesterenki_48
+    2300058: Sviaz_Plashka
+    2300060: Sviaz_Prujina
+    2300062: Sviaz_Shesterni1_48
+    2300064: Sviaz_Shesterni2
+    3300000: BackButton_Plashka
+    3300002: BackButton_Shesterni
+    3300004: Detali00
+    3300006: Detali01
+    3300008: Detali02
+    3300010: Detali03
+    3300012: Dopolnitelnie_kolesa00
+    3300014: Dopolnitelnie_kolesa01
+    3300016: Dopolnitelnie_kolesa02
+    3300018: Dopolnitelnie_kolesa03
+    3300020: Dopolnitelnie_kolesa04
+    3300022: Dopolnitelnie_kolesa05
+    3300024: Fon
+    3300026: Gruppa
+    3300028: Gruppa 1
+    3300030: Neft_Plashka
+    3300032: Neft_Shesterni
+    3300034: Plastina00
+    3300036: Plastina01
+    3300038: Plastina02
+    3300040: Plastina03
+    3300042: Plastina04
+    3300044: PrujinaBig
+    3300046: RamkaScreen
+    3300048: Rubl_Plashka
+    3300050: Rubl_shesterni_36
+    3300052: ShesterniPrujina
+    3300054: Stroika_Plashka
+    3300056: Stroika_Shesterenki_48
+    3300058: Sviaz_Plashka
+    3300060: Sviaz_Prujina
+    3300062: Sviaz_Shesterni1_48
+    3300064: Sviaz_Shesterni2
+    4300000: Dopolnitelnie_kolesa00
+    4300002: Plastina04
+    4300004: Fon
+    4300006: Plastina03
+    4300008: Plastina02
+    4300010: Detali01
+    4300012: Detali00
+    4300014: Detali03
+    4300016: Detali02
+    4300018: PrujinaBig
+    4300020: RamkaScreen
+    4300022: Plastina01
+    4300024: Plastina00
+    4300026: ShesterniPrujina
+    4300028: Dopolnitelnie_kolesa01
+    4300030: Dopolnitelnie_kolesa02
+    4300032: Stroika_Shesterenki_48
+    4300034: Sviaz_Shesterni1_48
+    4300036: Sviaz_Shesterni2
+    4300038: Sviaz_Prujina
+    4300040: BackButton_Plashka
+    4300042: Rubl_Plashka
+    4300044: Stroika_Plashka
+    4300046: Neft_Plashka
+    4300048: Neft_Shesterni
+    4300050: Dopolnitelnie_kolesa03
+    4300052: Rubl_shesterni_36
+    4300054: Gruppa
+    4300056: BackButton_Shesterni
+    4300058: Gruppa
+    4300060: Dopolnitelnie_kolesa04
+    4300062: Dopolnitelnie_kolesa05
+    4300064: Sviaz_Plashka
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

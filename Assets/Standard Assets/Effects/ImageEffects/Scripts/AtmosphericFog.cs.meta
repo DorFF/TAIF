@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b3311757d1d6e949bda434e5ab14c5f
+timeCreated: 1444338602
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fogShader: {fileID: 4800000, guid: 67fbdee61a1f0464db8a5fc76bda67f6, type: 3}
+  - m_atmosphereImageEffect: {fileID: 2100000, guid: 17825e61878ca29409c138348dbc3939,
+      type: 2}
+  - CombineFogShader: {fileID: 4800000, guid: fa0d9880bb2f0bf41829602acc107f1a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
